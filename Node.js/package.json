@@ -1,0 +1,11 @@
+{
+  "name": "sadievrennode",
+  "version": "1.0.0",
+  "main": "express.js",
+  "scripts": {
+    "start": "nodemon express.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
